@@ -2,7 +2,7 @@
 
 Event | Date | Format | Title
 ------------ | ------------- | ------------- | -------------
-NYU Tandon Teaches | December 1, 2020 | Webinar | "Tandon Teaches: Sounds and Synthesis"
+NYU Tandon Teaches | ~~December 1, 2020~~ Postponed | Webinar | "Tandon Teaches: Sounds and Synthesis"
 Slippery Rock University's Cyberspace Event | November 17, 2020 | Keynote | "Self-Improvement with Self-Care: Mental Health in Cybersecurity"
 Filipinas in Computing October Event| October 24, 2020 | Webinar | "#BeCyberSmart with Filipinas in Computing"
 BSides Charlotte | September 26, 2020 | Presentation | "Hack the Planet! And Space Too: A Peek Into Satellite Hacking"
