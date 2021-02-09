@@ -2,6 +2,7 @@
 
 Event | Date | Format | Title
 ------------ | ------------- | ------------- | -------------
+SIAM CSE21 | March 1, 2021 | Presentation | "Adopting the Hacker Mindset to Secure Enterprise Applications"
 NYU Tandon Teaches | ~~December 1, 2020~~ Postponed | Webinar | "Tandon Teaches: Sounds and Synthesis"
 Slippery Rock University's Cyberspace Event | November 17, 2020 | Keynote | "Self-Improvement with Self-Care: Mental Health in Cybersecurity"
 Filipinas in Computing October Event| October 24, 2020 | Webinar | "#BeCyberSmart with Filipinas in Computing"
